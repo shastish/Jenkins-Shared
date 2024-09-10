@@ -1,3 +1,3 @@
-def call(name){
-echo "Hey, $(name),How are you?"
-}
+def name = "John"  // Example variable
+echo "Hey, ${name}, How are you?"
+
