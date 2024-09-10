@@ -1,3 +1,5 @@
-def name = "John"  // Example variable
-echo "Hey, ${name}, How are you?"
+def call(String name) {
+    echo "Hey, ${name}, How are you?"
+}
+
 
